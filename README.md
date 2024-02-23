@@ -44,7 +44,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
-##
-<h4 align="center">Made with ❤️ from Anish</h4>
+## special thanks to Mansi and Naman chhabra
+<h4 align="center">Made with Varun walia</h4>
 <h4 align="center">Thank You</h4>
 
